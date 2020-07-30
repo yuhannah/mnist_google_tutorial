@@ -11,8 +11,12 @@
 *.gif
 *.csv
 *.otf
+*.gz
 events.out.tfevents.*
 
 
 .ipynb_checkpoints
 *.iml
+
+!.assets/*.png
+
