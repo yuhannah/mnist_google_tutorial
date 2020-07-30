@@ -24,8 +24,6 @@
 
 ![learning_rate 0.5 max test accuracy 0.9115 ](.assets/learning_rate 0.5 max test accuracy 0.9115 .png)
 
-![learning_rate 0.5 max test accuracy 0.9115 ](learning_rate 0.5 max test accuracy 0.9115 .png)
-
 max test accuracy: 0.9115
 
 ![learning_rate 0.05 max test accuracy 0.9151 ](.assets/learning_rate 0.05 max test accuracy 0.9151 .png)
