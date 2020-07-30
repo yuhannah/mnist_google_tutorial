@@ -1,7 +1,6 @@
 .idea
 *.h5
 *.mat
-*.png
 *.jpg
 *.jpeg
 *.pyc
@@ -13,7 +12,7 @@
 *.otf
 *.gz
 events.out.tfevents.*
-
+output/
 
 .ipynb_checkpoints
 *.iml
