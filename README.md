@@ -10,5 +10,3 @@ opencv 4.3.0
 ```
 
 PS：项目中用到了 datasets 和 models 等辅助资料不在仓库中备份。
-
-![learning_rate 0.5 max test accuracy 0.9115 ](learning_rate 0.5 max test accuracy 0.9115 .png)
